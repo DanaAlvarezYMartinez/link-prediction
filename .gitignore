@@ -2,3 +2,6 @@
 **/__pycache__
 */.ipynb_checkpoints/*
 tweets_graph.csv
+to_predict.csv
+ground_truth.csv
+graph_tp.gpickle
